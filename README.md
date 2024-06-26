@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Welcome to YIYANGSE's github</h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Black+Han+Sans&size=30&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%96%90" alt="Typing SVG" /></a></h1>
 </div>
-![header](https://capsule-render.vercel.app/api?type=venom&color=_custom_gradient&height=200&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=취미는%성장&fontSize=90" />
+
+[![Yiyangse's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiyangse)](https://github.com/yiyangse/github-readme-stats)
+
 
 Yiyangse/Yiyangse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
