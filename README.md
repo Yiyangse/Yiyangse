@@ -13,7 +13,7 @@
 [![Interview Badge](https://img.shields.io/badge/-Interview-92a8d1?logo=kakao&logoColor=white&link=)]()
 
 #### ✨ Blog & Note
-[![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/yb2316)](https://blog.naver.com/yb2316)
+[![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/yiyangse)](https://blog.naver.com/yiyangse)
 
 #### ✨ Dev logs
 [![Yiyangse's github stats](https://github-readme-stats.vercel.app/api?username=Yiyangse&count_private=true&custom_title=Mumani's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
