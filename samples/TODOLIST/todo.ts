@@ -74,4 +74,4 @@ function addTwoTodoItems(): void {
 todoItems = fetchTodoItems();
 addTwoTodoItems();
 log();
-cimpleteTodo(1, todoItems[1]);
+completeTodo(1, todoItems[1]);
