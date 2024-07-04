@@ -4,7 +4,7 @@ import OnClick from './pages/OnClick';
 import ReactOnClick from './pages/ReactOnClick';
 import DispatchEvent from './pages/DispatchEvent';
 import StopPropagarion from './pages/StopPropagation';
-import VariousInput from './pages/VariousInputs';
+import VariousInputs from './pages/VariousInputs';
 import OnChange from './pages/OnChange';
 import FileDrop from './pages/FileDrop';
 import DragDrop from './pages/DragDrop';
@@ -14,17 +14,17 @@ import FileInput from './pages/FileInput';
 export default function App() {
   return (
     <div>
-      <DispatchEvent />
-      <DragDrop />
-      <EventBubbling />
-      <EventListner />
       <FileDrop />
+      <DragDrop />
       <FileInput />
       <OnChange />
-      <OnClick />
-      <ReactOnClick />
+      <VariousInputs />
       <StopPropagarion />
-      <VariousInput />
+      <EventBubbling />
+      <DispatchEvent />
+      <ReactOnClick />
+      <OnClick />
+      <EventListner />
     </div>
   );
 }
