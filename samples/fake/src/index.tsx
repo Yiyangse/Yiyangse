@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import * as D from './data';
 import App from './App';
 import './index.css';
+import '@fontsource/material-icons';
 
 // const children = [0, 1, 2].map((n: number) => <h3>Hello world! {n}</h3>);
 
