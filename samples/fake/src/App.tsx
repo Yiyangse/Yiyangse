@@ -1,33 +1,63 @@
-//event 처리 부분
-import EventListner from './pages/EventListner';
-import OnClick from './pages/OnClick';
-import ReactOnClick from './pages/ReactOnClick';
-import DispatchEvent from './pages/DispatchEvent';
-import StopPropagarion from './pages/StopPropagation';
-import VariousInputs from './pages/VariousInputs';
-import OnChange from './pages/OnChange';
-import FileDrop from './pages/FileDrop';
-import DragDrop from './pages/DragDrop';
-import EventBubbling from './pages/EventBubbling';
-import FileInput from './pages/FileInput';
-
+import Tailwindcss from './pages/Tailwindcss';
+import Color from './pages/Color';
+import TextsTest from './pages/TextsTest';
+// import Bootstrap from './pages/Bootstrap';
+// import Icon from './pages/Icon';
+// import Style from './pages/Style';
+// import UsingIcon from './pages/UsingIcon';
+// import UsingIcomWiththeCSSClass from './pages/UsingIconWithCSSClass';
 export default function App() {
   return (
     <div>
-      <FileDrop />
-      <DragDrop />
-      <FileInput />
-      <OnChange />
-      <VariousInputs />
-      <StopPropagarion />
-      <EventBubbling />
-      <DispatchEvent />
-      <ReactOnClick />
-      <OnClick />
-      <EventListner />
+      <TextsTest />
+      <Color />
+      <Tailwindcss />
     </div>
   );
 }
+
+// export default function App() {
+//   return (
+//     <div>
+//       {/* <UsingIconWiththeCSSClass />
+//       <UsingIcon />
+//       <Style />
+//       <Icon /> */}
+//       <Bootstrap />
+//     </div>
+//   );
+// }
+
+//event 처리 부분
+// import EventListner from './pages/EventListner';
+// import OnClick from './pages/OnClick';
+// import ReactOnClick from './pages/ReactOnClick';
+// import DispatchEvent from './pages/DispatchEvent';
+// import StopPropagarion from './pages/StopPropagation';
+// import VariousInputs from './pages/VariousInputs';
+// import OnChange from './pages/OnChange';
+// import FileDrop from './pages/FileDrop';
+// import DragDrop from './pages/DragDrop';
+// import EventBubbling from './pages/EventBubbling';
+// import FileInput from './pages/FileInput';
+
+// export default function App() {
+//   return (
+//     <div>
+//       <FileDrop />
+//       <DragDrop />
+//       <FileInput />
+//       <OnChange />
+//       <VariousInputs />
+//       <StopPropagarion />
+//       <EventBubbling />
+//       <DispatchEvent />
+//       <ReactOnClick />
+//       <OnClick />
+//       <EventListner />
+//     </div>
+//   );
+// }
 
 // import { Component } from 'react';
 // import ClassComponents from './ClassComponent';
