@@ -1,6 +1,34 @@
-import Tailwindcss from './pages/Tailwindcss';
-import Color from './pages/Color';
-import TextsTest from './pages/TextsTest';
+import DirectionTest from './pages/DirectionTest';
+import WrapTest from './pages/WrapTest';
+import MinMaxTest from './pages/MinMaxTest';
+import JustifyCenterTest from './pages/JustifyCenterTest';
+import AlignTest from './pages/AlignTest';
+import UserContainer from './pages/UserContainer';
+import CardContainer from './pages/CardContainer';
+import ButtonTest from './pages/ButtonTest';
+import InputTest from './pages/InputTest';
+import ModalTest from './pages/ModalTest';
+
+export default function App() {
+  return (
+    <main>
+      <CardContainer />
+      <UserContainer />
+      {/* <AlignTest />
+      <JustifyCenterTest />
+      <MinMaxTest />
+      <WrapTest />
+      <DirectionTest />
+      <ButtonTest />
+      <InputTest /> */}
+      {/* <ModalTest /> */}
+    </main>
+  );
+}
+
+// import Tailwindcss from './pages/Tailwindcss';
+// import Color from './pages/Color';
+// import TextsTest from './pages/TextsTest';
 // import Bootstrap from './pages/Bootstrap';
 // import Icon from './pages/Icon';
 // import Style from './pages/Style';
@@ -16,39 +44,39 @@ import TextsTest from './pages/TextsTest';
 //   );
 // }
 
-import DivTest from './pages/DivTest';
-import ViewportTest from './pages/ViewportTest';
-import HeightTest from './pages/HeightTest';
-import PaddingTest from './pages/PaddingTest';
-import MarginTest from './pages/MarginTest';
-import ImageTest from './pages/ImageTest';
-import BackgroundImageTest from './pages/BackgroundImageTest';
-import DisplayTest from './pages/DisplayTest';
-import DisplayNoneTest from './pages/DisplayNoneTest';
-import AvatarTest from './pages/AvatarTest';
-import PositionTest from './pages/PositionTest';
-import BorderTest from './pages/BorderTest';
-import OverlayTest from './pages/OverlayTest';
+// import DivTest from './pages/DivTest';
+// import ViewportTest from './pages/ViewportTest';
+// import HeightTest from './pages/HeightTest';
+// import PaddingTest from './pages/PaddingTest';
+// import MarginTest from './pages/MarginTest';
+// import ImageTest from './pages/ImageTest';
+// import BackgroundImageTest from './pages/BackgroundImageTest';
+// import DisplayTest from './pages/DisplayTest';
+// import DisplayNoneTest from './pages/DisplayNoneTest';
+// import AvatarTest from './pages/AvatarTest';
+// import PositionTest from './pages/PositionTest';
+// import BorderTest from './pages/BorderTest';
+// import OverlayTest from './pages/OverlayTest';
 
-export default function App() {
-  return (
-    <main>
-      <OverlayTest />
-      <BorderTest />
-      <PositionTest />
-      <AvatarTest />
-      <DisplayNoneTest />
-      <DisplayTest />
-      <BackgroundImageTest />
-      <ImageTest />
-      <MarginTest />
-      <PaddingTest />
-      <HeightTest />
-      <ViewportTest />
-      <DivTest />
-    </main>
-  );
-}
+// export default function App() {
+//   return (
+//     <main>
+//       <OverlayTest />
+//       <BorderTest />
+//       <PositionTest />
+//       <AvatarTest />
+//       <DisplayNoneTest />
+//       <DisplayTest />
+//       <BackgroundImageTest />
+//       <ImageTest />
+//       <MarginTest />
+//       <PaddingTest />
+//       <HeightTest />
+//       <ViewportTest />
+//       <DivTest />
+//     </main>
+//   );
+// }
 
 // export default function App() {
 //   return (
