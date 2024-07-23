@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
   res.json(posts);
 });
 
-app.post('/post', (req, res) => {
+app.post('/posts', (req, res) => {
   const { title, name, text } = req.body;
 
   posts.push({ id: posts.length + 1, title, name, text, createdDt: Date() });
